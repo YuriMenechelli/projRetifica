@@ -1,0 +1,1 @@
+Este software foi desenvolvido em Delphi 10 Seattle com BD firebird 2.5.
